@@ -3,11 +3,11 @@
 $_['heading_title']      = 'WorldPay';
 
 // Text 
-$_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified WorldPay account details!';
-$_['text_successful']    = 'On - Always Successful';
-$_['text_declined']      = 'On - Always Declined';
-$_['text_off']           = 'Off';
+$_['text_payment']       = 'Mokėjimas';
+$_['text_success']       = 'Pavyko: Jūs modifikavote mokėjimo detales!';
+$_['text_successful']    = 'Įjungta - Visada pavyksta';
+$_['text_declined']      = 'Įjungta - Visada atmesta';
+$_['text_off']           = 'Išjungta';
       
 // Entry
 $_['entry_merchant']     = 'Merchant ID:';
